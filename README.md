@@ -1,6 +1,5 @@
 Hey Guys, I am Aman – Have been working as Lead QA Engineer.
-I love automating everything :) 
-If I see anyone doing repeated tasks for hours.
+Learning & sharing knowledge is my passion.
 
 <!---
 amangit356/amangit356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
